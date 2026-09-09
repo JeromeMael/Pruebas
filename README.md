@@ -1,4 +1,4 @@
 # Pruebas
 
 print("Hello world");
-print("Como estan");
+print("crearemos un juego maravilloso");
